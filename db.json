@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nama": "aisyah dwi",
+      "alamat": "sumenep",
+      "email": "sya@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "nela",
+      "alamat": "sumenep",
+      "email": "nela@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "dwi",
+      "alamat": "sumenep",
+      "email": "dwi@gmail.com"
+    }
+  ]
+}
